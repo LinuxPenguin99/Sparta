@@ -1,4 +1,4 @@
-name: sparta
+name: parta
 channels:
   - defaults
 dependencies:
