@@ -1,4 +1,3 @@
-name: parta
 channels:
   - defaults
 dependencies:
