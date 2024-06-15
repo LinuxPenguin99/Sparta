@@ -63,4 +63,3 @@
 - typing-extensions==4.12.2
 - tzdata==2024.1
 - urllib3==2.2.1
-prefix: /Users/younsy6/opt/anaconda3/envs/sparta
